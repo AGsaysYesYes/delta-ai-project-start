@@ -1,3 +1,3 @@
 # delta-ai-project-start
 Phase 1 - To ideate the project
-Phase 2 - Build the website
+Phase 2 - Learn the Basics of AI
